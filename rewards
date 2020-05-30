@@ -1,0 +1,14 @@
+public class Main{
+
+public static void main (String args[]){
+ 
+runner(4);
+}
+
+private static void runner (int x){
+
+System.out.println("math");
+System.out.println(x - 1); 
+}
+
+}
